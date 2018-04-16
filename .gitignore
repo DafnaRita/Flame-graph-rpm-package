@@ -1,0 +1,7 @@
+#ignore rpm packages
+*.rpm
+#ignore build files
+/BUILD/*
+/BUILDROOT/*
+!/BUILD/.gitkeep
+!/BUILDROOT/.gitkeep
