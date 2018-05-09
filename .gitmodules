@@ -1,0 +1,6 @@
+[submodule "SOURCES/shell-script-0.1/perf-map-agent"]
+	path = SOURCES/shell-script-0.1/perf-map-agent
+	url = git://github.com/DafnaRita/perf-map-agent.git
+[submodule "SOURCES/shell-script-0.1/FlameGraph"]
+	path = SOURCES/shell-script-0.1/FlameGraph
+	url = git://github.com/DafnaRita/FlameGraph.git
